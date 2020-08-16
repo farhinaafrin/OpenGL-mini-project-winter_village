@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597577673 source:/home/arv/.config/codeblocks/winter_village/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
